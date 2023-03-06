@@ -3,7 +3,7 @@
 
 As an experienced front-end developer with expertise in the React framework and styling, I am skilled in creating highly functional and visually appealing user interfaces. With a deep understanding of HTML, CSS, and JavaScript, I am well-equipped to build complex web applications with ease.
 
-## Hi, I'm Shahnoor! 👋
+# Hi, I'm Shahnoor! 👋
 ### A passionate front-end developer
 
 🌱 I’m currently learning React, deep learning
