@@ -1,7 +1,8 @@
 
 # React Front-end Developer
 
-As an experienced front-end developer with expertise in the React framework and styling, I am skilled in creating highly functional and visually appealing user interfaces. With a deep understanding of HTML, CSS, and JavaScript, I am well-equipped to build complex web applications with ease.
+As an experienced front-end developer with expertise in the React framework and styling, I am skilled in creating highly functional and visually appealing user interfaces. With a deep understanding of HTML, CSS, and JavaScript, I am well-equipped to build complex web applications with ease. <br/> <br/>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/11f06c2e444753fbef16edeb104b5b45b4bfaa903f7b0227acdad56c58736166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616c69642d616b6873733139266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" class=""><img src="https://camo.githubusercontent.com/11f06c2e444753fbef16edeb104b5b45b4bfaa903f7b0227acdad56c58736166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616c69642d616b6873733139266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hunxayi_shan" data-canonical-src="https://komarev.com/ghpvc/?username=hunxayi_shan&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
 # Hi, I'm Shahnoor! 👋
 ### A passionate front-end developer
