@@ -35,7 +35,7 @@ Hello there! 👋 I'm a passionate crawler engineer and React developer with a s
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunxayi-shan&" alt="hunxayi-shan" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hunzaishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hunzaishan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hunzaishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hunzaishan" /></a></p><br><br>
 
 ## License
 
