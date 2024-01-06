@@ -1,5 +1,5 @@
 
-# Crawler Engineer and React Developer
+# Data Analyst and React Developer
 
 Hello there! 👋 I'm a passionate crawler engineer and React developer with a strong focus on building and maintaining web applications. I thrive on the challenges of web scraping and have honed my skills in utilizing Python libraries such as BeautifulSoup, Selenium, and Requests to extract valuable data from websites. Additionally, I'm an expert in React, crafting highly functional and visually appealing user interfaces. <br/> <br/>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/11f06c2e444753fbef16edeb104b5b45b4bfaa903f7b0227acdad56c58736166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616c69642d616b6873733139266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" class=""><img src="https://camo.githubusercontent.com/11f06c2e444753fbef16edeb104b5b45b4bfaa903f7b0227acdad56c58736166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b68616c69642d616b6873733139266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="pipinstallshan" data-canonical-src="https://komarev.com/ghpvc/?username=pipinstallshan&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
