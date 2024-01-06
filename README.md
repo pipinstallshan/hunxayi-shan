@@ -6,7 +6,7 @@ Hello there! 👋 I'm a passionate crawler engineer and React developer with a s
 
 # Hi, I'm Shahnoor! 👋
 
-### Data/Web Scraping:
+### Data \ Web Scraping:
     • Scraped millions of products from websites using Python libraries.
     • Dealt with common issues such as CAPTCHAs and dynamically loaded content.
     • Delivered the data in a CSV file format.
