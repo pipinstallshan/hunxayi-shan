@@ -35,7 +35,7 @@ Interested in React, web scraping, or have a project in mind? Feel free to reach
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipinstallshan&" alt="pipinstallshan" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hunzaishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hunzaishan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pipinstallshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pipinstallshan" /></a></p><br><br>
 
 ## License
 
