@@ -1,25 +1,31 @@
 
-# Data Analyst and React Developer
-
-Hello there! 👋 I'm a passionate crawler engineer and React developer with a strong focus on building and maintaining web applications. I thrive on the challenges of web scraping and have honed my skills in utilizing Python libraries such as BeautifulSoup, Selenium, and Requests to extract valuable data from websites. Additionally, I'm an expert in React, crafting highly functional and visually appealing user interfaces. <br/> <br/>
+# Data Analyst and Python Developer
 
 # Hi, I'm Shahnoor! 👋
 
-### Data Scraping:
-    • Scraped millions of products from websites using Python libraries and frameworks.
-    • Dealt with common issues such as CAPTCHAs and dynamically loaded content.
-    • Delivered the data in an organized format.
-    
-### React Developer:
-    • Created highly functional and visually appealing user interfaces using React.
-    • Worked with HTML, CSS, and JavaScript.
-    • Built complex web applications with ease.\
+Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawling, automation, and web development. With a robust technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction and crafting high-performance web applications. <br/> <br/>
+
+## 🌐 What I Do
+
+### Web Crawling & Automation:
+- **Expertise in Python & Node.js:** Advanced skills in web scraping using BeautifulSoup, Selenium, Requests in Python, and comparable libraries in Node.js.
+- **Overcoming Data Extraction Challenges:** Proficient in navigating CAPTCHAs, handling dynamically loaded content, and ensuring efficient data retrieval.
+- **Data Delivery:** Capable of processing and presenting extracted data in structured formats, catering to diverse client needs.
+
+### Web Development:
+- **Python-Based Frameworks:** Developed feature-rich web applications using Django and Flask, emphasizing scalability and security.
+- **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
+
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pipinstallshan&show_icons=true&locale=en" alt="pipinstallshan" /></p>
 </br>
-💬 Ask me about React and Web Scraping
+## 💬 Let's Talk!
 
-📫 How to reach me shahnr5889@gmail.com
+Interested in React, web scraping, or have a project in mind? Feel free to reach out:
+
+📫 How to reach me:
+- **Email:** shahnr5889@gmail.com
+
 <br/>
 ## 🛠 Skills
 
