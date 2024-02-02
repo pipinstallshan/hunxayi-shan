@@ -1,6 +1,3 @@
-
-# Hi, I'm Shahnoor! 👋
-
 # Crawler Engineer & Web Developer
 
 Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawling, automation, and web development. With a robust technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction and crafting high-performance web applications. <br/> <br/>
