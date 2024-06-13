@@ -18,7 +18,7 @@ Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawl
 </br>
 
 ## 💬 Let's Talk!
-Interested in React, web scraping, or have a project in mind? Feel free to reach out:
+Interested in web applications, web scraping, machine learning models, or have a project in mind? Feel free to reach out:
 📫 How to reach me:
 - **Email:** shahnr5889@gmail.com
 </br>
@@ -29,8 +29,8 @@ Interested in React, web scraping, or have a project in mind? Feel free to reach
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnoor-%E2%80%8E-33867214b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shahnr.noor.3)
-[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hunzai_shan/)
+[![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourshahnoor)
+[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipinstallshan&" alt="pipinstallshan" /></p>
 
