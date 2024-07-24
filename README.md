@@ -32,7 +32,7 @@ Interested in web applications, web scraping, machine learning models, or have a
 [![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourshahnoor)
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipinstallshan&hide_current_streak=true" alt="pipinstallshan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipinstallshan&hide_current_streak=true&card_width=395" alt="pipinstallshan" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pipinstallshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pipinstallshan" /></a></p><br><br>
