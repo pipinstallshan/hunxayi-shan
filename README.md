@@ -13,10 +13,9 @@ Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawl
 - **Python-Based Frameworks:** Developed feature-rich web applications using Django and Flask, emphasizing scalability and security.
 - **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
 
-</br>
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
-</br>
-
+<p aligh="left">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
+</p>
 
 ## 💬 Let's Talk!
 Interested in web applications, web scraping, machine learning models, or have a project in mind? Feel free to reach out:
@@ -33,9 +32,9 @@ Interested in web applications, web scraping, machine learning models, or have a
 [![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourshahnoor)
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
-<p aligh="left">
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
-</p>
+</br>
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+</br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pipinstallshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pipinstallshan" /></a></p><br></br>
