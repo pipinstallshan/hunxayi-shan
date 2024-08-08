@@ -34,6 +34,10 @@ Interested in web applications, web scraping, machine learning models, or have a
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freemansoft&hide_current_streak=true&card_width=395" alt="pipinstallshan" /></p>
+<p aligh="left">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pipinstallshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pipinstallshan" /></a></p><br></br>
