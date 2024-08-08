@@ -12,11 +12,11 @@ Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawl
 ### Web Development:
 - **Python-Based Frameworks:** Developed feature-rich web applications using Django and Flask, emphasizing scalability and security.
 - **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
-
+</br>
 <p aligh="left">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
 </p>
-
+</br>
 ## 💬 Let's Talk!
 Interested in web applications, web scraping, machine learning models, or have a project in mind? Feel free to reach out:
 📫 How to reach me:
@@ -33,7 +33,9 @@ Interested in web applications, web scraping, machine learning models, or have a
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
 </br>
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <p aligh="left">
+    <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  </p>
 </br>
 
 <h3 align="left">Support:</h3>
