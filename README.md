@@ -14,7 +14,7 @@ Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawl
 - **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
 
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freemansoft&show_icons=true&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true" alt="pipinstallshan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freemansoft&hide_current_streak=true&card_width=395" alt="pipinstallshan" /></p>
 </br>
 
 
@@ -33,9 +33,7 @@ Interested in web applications, web scraping, machine learning models, or have a
 [![facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourshahnoor)
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourshahnoor/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freemansoft&hide_current_streak=true&card_width=395" alt="pipinstallshan" /></p>
 <p aligh="left">
-  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
 </p>
 
