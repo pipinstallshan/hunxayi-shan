@@ -14,7 +14,7 @@ Hello there! I'm Shahnoor, a dynamic software engineer specializing in web crawl
 - **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
 
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freemansoft&hide_current_streak=true&card_width=395" alt="pipinstallshan" /></p>
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=pipinstallshan&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
 </br>
 
 
