@@ -2,16 +2,20 @@
 
 Hello there! I'm Shah Noor, a seasonal data scientist specializing in web crawling, automation, and machine learning models, I have a technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction, web automation, machine learning, and crafting high-performance web applications. <br/> <br/>
 
-## 🌐 What I Do
+### 🚀 Web Crawling & Automation  
+- **Expertise in Python & Node.js**  
+  Advanced skills in web scraping with tools like **BeautifulSoup**, **Selenium**, and **Requests** (Python), as well as comparable libraries in Node.js.  
+- **Overcoming Data Extraction Challenges**  
+  Skilled in solving complex issues like bypassing **CAPTCHAs**, handling **dynamically loaded content**, and ensuring **efficient data retrieval**.  
+- **Data Delivery**  
+  Proficient in delivering extracted data in **structured formats**, tailored to diverse client needs.
 
-### Web Crawling & Automation:
-- **Expertise in Python & Node.js:** Advanced skills in web scraping using BeautifulSoup, Selenium, Requests in Python, and comparable libraries in Node.js.
-- **Overcoming Data Extraction Challenges:** Proficient in navigating CAPTCHAs, handling dynamically loaded content, and ensuring efficient data retrieval.
-- **Data Delivery:** Capable of processing and presenting extracted data in structured formats, catering to diverse client needs.
+### 💻 Web Development  
+- **Python-Based Frameworks**  
+  Created feature-rich web applications using **Django** and **Flask**, focusing on **scalability** and **security**.  
+- **Front-End Excellence**  
+  Designed intuitive and visually appealing user interfaces with **React**, **HTML**, **CSS**, and **JavaScript** to enhance **user experience**.
 
-### Web Development:
-- **Python-Based Frameworks:** Developed feature-rich web applications using Django and Flask, emphasizing scalability and security.
-- **Front-End Excellence:** Crafted intuitive and aesthetically pleasing user interfaces with React, HTML, CSS, and JavaScript, enhancing user experience and engagement.
 </br>
 <p aligh="left">
   <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=pipinstallshan&layout=compact&theme=midnight-purple" />
